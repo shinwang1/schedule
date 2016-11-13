@@ -1,14 +1,14 @@
-# Coding for Product Managers Schedule
+# Coding for Product Managers Schedule (San Francisco)
 
 
 | Day | Date | Topic |
 |-----|-------|------|
 | Day 1 | 11/07/16 | HTML|
-| Day 2 | 11/09/16 | HTML|
-| Day 3 | 11/14/16 | HTML|
-| Day 4 | 11/16/16 | HTML|
-| Day 5 | 11/21/16 | HTML|
-| Day 6 | 11/28/16 | HTML|
+| Day 2 | 11/09/16 | CSS|
+| Day 3 | 11/14/16 | Responsive Design|
+| Day 4 | 11/16/16 | Responsive Design|
+| Day 5 | 11/21/16 | Version Control/Git|
+| Day 6 | 11/28/16 | Github|
 | Day 7 | 11/30/16 | HTML|
 | Day 8 | 12/05/16 | HTML|
 | Day 9 | 12/07/16 | HTML|
