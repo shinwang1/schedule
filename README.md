@@ -4,7 +4,7 @@
 | Day | Date | Topic |
 |-----|-------|------|
 | Day 1 | 11/07/16 | <a href="https://github.com/product-school/Lesson-1-HTML-CSS">HTML</a> |
-| Day 2 | 11/09/16 | CSS|
+| Day 2 | 11/09/16 | <a href="https://github.com/product-school/Lesson-2-CSS">CSS</a> |
 | Day 3 | 11/14/16 | Responsive Design|
 | Day 4 | 11/16/16 | Responsive Design|
 | Day 5 | 11/21/16 | Version Control/Git|
