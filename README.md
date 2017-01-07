@@ -17,5 +17,5 @@
 | Day 12 | 12/19/16 | <a href="https://github.com/product-school/jquery-lesson">JQuery</a>|
 | Day 13 | 12/21/16 | <a href="https://github.com/product-school/unit-testing">RSPec Testing</a>|
 | Day 14 | 01/04/17 | <a href="https://github.com/product-school/heroku-lesson">Heroku Deployment</a>|
-| Day 15 | 01/09/17 | Devise|
+| Day 15 | 01/09/17 | Authorization & Foreign Keys|
 | Day 16 | 01/11/17 | Website Review/Clean-Up/Debugging|
