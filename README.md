@@ -18,4 +18,4 @@
 | Day 13 | 12/21/16 | <a href="https://github.com/product-school/unit-testing">RSPec Testing</a>|
 | Day 14 | 01/04/17 | <a href="https://github.com/product-school/heroku-lesson">Heroku Deployment</a>|
 | Day 15 | 01/09/17 | <a href="https://github.com/product-school/authorization-rails">Authorization & Foreign Keys</a>|
-| Day 16 | 01/11/17 | Website Review/Clean-Up/Debugging|
+| Day 16 | 01/11/17 | <a href="https://github.com/product-school/overview">Website Review/Clean-Up/Debugging</a>|
